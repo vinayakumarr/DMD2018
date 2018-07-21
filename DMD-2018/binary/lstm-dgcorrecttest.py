@@ -51,7 +51,7 @@ T1 = test1.values.tolist()
 T1 = list(itertools.chain(*T1))
 
 # Generate a dictionary of valid characters
-valid_chars = {x:idx+1 for idx, x in enumerate(set(''.join(X+T+T1)))}
+valid_chars = {x:idx+1 for idx, x in enumerate(set(''.join(X)))}
 
 max_features = len(valid_chars) + 1
 
