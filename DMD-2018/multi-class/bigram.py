@@ -48,7 +48,7 @@ T1 = list(itertools.chain(*T1))
 
 print("vectorizing data")
 ngram_vectorizer = feature_extraction.text.CountVectorizer(analyzer='char', ngram_range=(2, 2))
-X_train = ngram_vectorizer.fit_transform(X+T+T1)
+X_train = ngram_vectorizer.fit_transform(X)
 
 
 print("vectorizing data")
