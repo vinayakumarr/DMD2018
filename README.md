@@ -1,5 +1,7 @@
 # DMD2018
 
+[![DOI](https://zenodo.org/badge/138847605.svg)](https://zenodo.org/badge/latestdoi/138847605)
+
 This data set ia avilable for further research. As our dataset is for research purpose, please send us your complete name, supervisor name, university name and an official email from your university e-mail address to vinayakumarr77@gmail.com.
 
 References
