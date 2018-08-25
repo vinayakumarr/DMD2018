@@ -20,4 +20,4 @@ Vysakh S Mohan, Vinayakumar R, Soman Kp and Prabaharan Poornachandran, S.P.O.O.F
 
 Vinayakumar R, Soman KP, Prabaharan Poornachandran, BigCogNet: Big data based Cognitive Security System for an Organization In: Mamoun Alazab and MingJian Tang (eds) Deep Learning Applications for Cyber Security, Advanced Sciences and Technologies for Security Applications, Springer [under-review]
 
-Vinayakumar R, Soman KP, DGANet: Applying traditional machine learning and deep learning models to detect and categorize DGA, ICT Express (2018)  [under review]
+Vinayakumar R, Soman KP, DGANet: Applying traditional machine learning and deep learning models to detect and categorize DGA, 2018 
